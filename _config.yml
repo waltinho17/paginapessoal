@@ -1,6 +1,6 @@
 # Texto principal da página inicial
 title: Walter Rodrigues
-bio: Um técnico de informática com experiência em consultoria e montagem de computador para jogos
+bio: Um técnico de informática com experiência em consultoria e montagem de computadores para jogos
 
 # twitter summary info
 description: Um blog sobre informática com foco em PC gamer
@@ -22,7 +22,8 @@ resume: false
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
-url: https://waltinho17.github.io
+url: "https://waltinho17.github.io"
+baseurl: "/paginapessoal"
 # sua url: https://USERNAME.github.io
 
 permalink: /:title/
