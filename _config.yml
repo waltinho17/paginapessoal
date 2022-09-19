@@ -18,7 +18,7 @@ dark-theme: auto
 
 # Se quiser adicionar o currículo, use True
 # Especifique o diretório (externo ou local).
-resume: true
+resume: false
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
