@@ -1,45 +1,48 @@
-# main text of home
-title: John Doe
-bio: A Person who travels the world eating noodles
+# Texto principal da página inicial
+title: Walter Rodrigues
+bio: Um técnico de informática com experiência em consultoria e montagem de computador para jogos
 
 # twitter summary info
-description: A blog about technology and stuff related
+description: Um blog sobre informática com foco em PC gamer
 
-# if it's an external image, update below for true
-# better with square images
+# se for uma imagem externa, atualize abaixo para true
+# melhor usar imagens quadradas
 external-image: false
-picture: assets/images/profile.jpg
+picture: assets/images/avatar3.jpeg
 
-# your site color theme, true for dark theme, 
-# false to light theme, auto to switch with system.
+# Tema de cor do site 
+#true = noite
+#false = dia
+#auto = automático do sistema
 dark-theme: auto
 
-# If you want to include your resume, set to true
-# and specify source (external or local).
+# Se quiser adicionar o currículo, use True
+# Especifique o diretório (externo ou local).
 resume: true
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
-url: https://sergiokopplin.github.io/indigo
-# your url: https://USERNAME.github.io
+url: https://github.com/waltinho17/
+# sua url: https://USERNAME.github.io
 
 permalink: /:title/
 
-# To enable google analytics, supply your token below
+# Para usar o Google Analytics, copie o token abaixo
 # analytics-google: 'UA-MYANALYTICS'
 
-# if you don't want comments in your posts, leave categories empty
+# se não quiser comentários em seus posts, deixe as categorias vazias
 disqus:
   shortname: github # enter this from your disqus account
-  categories: [blog, project] # only show disqus for posts that have these categories
+  categories: [] # pode usar categorias como blog, project
 
-# if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
-instagram: myinstagram
-linkedin: mylinkedin
-github: mygithub
-email: myemail@gmail.com
+# se você não tem alguma das redes sociais abaixo comente a linha
+
+#facebook: waltinho17
+instagram: waltinhopr
+#twitter: waltinhopr
+linkedin: walter-rodrigues-168594145
+github: waltinho17
+email: waltinhopr@gmail.com
 
 authors:
   johndoe:
@@ -55,16 +58,16 @@ authors:
     picture: assets/images/james.jpg
     twitter: jamesfoster
 
-# do you want a larger site? change the option below
+# você quer um site maior? altere a opção abaixo
 # options: [normal, large] | default: normal
 # normal = 560px / large = 810px
 width: normal
 
-# if you do/don't need pagination, toggle 'enabled' between true/false below
+# se você não precisar de paginação, deixe com false
 pagination:
   enabled: false
-  sort_reverse: true # display recent posts first
-  title: ":title" # Changing this will mess up the header display logic
+  sort_reverse: true # mostrar os ponts mais recentes primeiro
+  title: ":title" # Se alterar isso vai atrapalhar o cabeçalho
   per_page: 5
   permalink: "/:num/" # pagination link that will be appended
 
