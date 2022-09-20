@@ -4,40 +4,26 @@ layout: page
 ---
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
-<p>Lorem Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p> Sou entusiasta no mundo do PC desde 2010, mas sempre com foco em computadores
+voltado para jogos. Sempre tentei extrair o maior potencial dos computadores juntamente
+com uma montagem bem executada, tentando melhorar dia após dia o cable management, descobrindo 
+formas para otimizar ainda mais o sistema e assim conseguindo resultados satisfatórios.</p>
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>Em 2010 tive o meu primeiro "PC Gamer", lembro que o processador era um AMD Phenom II 955 em conjunto 
+com uma NVidia GT220 de 512M, aquilo pra mim era o paraíso. Com o tempo eu fui tentando descobrir 
+coisas novas para tentar melhorar o desempenho do meu computador no intuito de ganhar FPS, testava overclock, 
+configurações no windows e tudo que poderia ter algum resultado. As vezes conseguia ter ganhos significativos
+e ficava muito contente e assim tomando gosto pela coisa.</p>
 
-<h2>Habilidades</h2>
+<p>Desde 2010 nunca parei, só fui me atualizando e tentando criar uma forma de otimização com as minhas 
+características.</p>
 
-<ul class="skill-list">
-	<li>HTML - Jade - Haml - Erb</li>
-	<li>Responsive (Mobile First)</li>
-	<li>CSS (Stylus, Sass, Less)</li>
-	<li>Css Frameworks (Bootstrap, Foundation)</li>
-	<li>Javascript (Design Patterns, Testes)</li>
-	<li>AngularJS - ReactJS</li>
-	<li>Grunt - Gulp - Yeoman</li>
-	<li>Git</li>
-	<li>PHP</li>
-	<li>Python</li>
-	<li>MySQL - MongoDB</li>
-	<li>Scrum and Kanban</li>
-	<li>TDD e Continuous Integration</li>
-</ul>
+<p><b>(O que eu prezo no meu trabalho de montagem, otimização e consultoria é a qualidade).</b></p>
 
-<h2>Projects</h2>
+<p>Em minhas consultorias busco sempre atingir especificamente os objetivos dos clientes da melhor maneira 
+possível, assim consigo entregar um projeto de qualidade.</p>
 
+<h2>Projetos</h2>
 <ul>
 	<li><a href="https://github.com/waltinho17/EnergyManager">Energy Manager</a></li>
 </ul>

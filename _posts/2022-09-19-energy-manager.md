@@ -12,7 +12,6 @@ description: Um simples gerenciador à moda antiga.
 author: Walter
 externalLink: false
 ---
-
 <p align="center">
   <img width="350" align="center" src="\assets\images\1.png">
 </p>

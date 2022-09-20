@@ -1,6 +1,6 @@
 # Texto principal da página inicial
 title: Walter Rodrigues
-bio: Um técnico de informática com experiência em consultoria e montagem de computadores para jogos
+bio: Um técnico de informática com experiência em consultoria, montagem e otimização de PC Gamer.
 
 # twitter summary info
 description: Um blog sobre informática com foco em PC gamer
@@ -38,10 +38,10 @@ disqus:
 # se você não tem alguma das redes sociais abaixo comente a linha
 
 #facebook: waltinho17
-instagram: waltinhopr
 #twitter: waltinhopr
-linkedin: walter-rodrigues-168594145
+instagram: waltinhopr
 github: waltinho17
+linkedin: walter-rodrigues-168594145
 email: waltinhopr@gmail.com
 
 authors:
